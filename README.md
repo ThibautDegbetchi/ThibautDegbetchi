@@ -5,7 +5,6 @@ Développeur **Web (Laravel, Vue.js, Node.js, WordPress)** & **Mobile (Flutter)*
 Je conçois et développe des solutions digitales de A à Z, avec une attention particulière pour :
 
 ⚡ La performance  
-🎨 L’expérience utilisateur  
 📱 Le mobile-first  
 🧩 Les architectures propres, évolutives et maintenables  
 
