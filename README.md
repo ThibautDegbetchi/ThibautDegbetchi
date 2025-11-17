@@ -98,7 +98,6 @@ E-commerce spécialisé avec système d’enchères.
 - Micro-services Node.js  
 - Dashboards Vue.js  
 - API sécurisées Spring Boot  
-*(possibilité d'ajouter des liens GitHub si tu veux)*  
 
 ---
 
