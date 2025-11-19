@@ -114,7 +114,7 @@ E-commerce spécialisé avec système d’enchères.
 - Automation & micro-services Node.js  
 - Vue.js 3 + Composition API  
 - Animations complexes Flutter  
-- WordPress headless + API REST  
+- WordPress headless
 
 ---
 
