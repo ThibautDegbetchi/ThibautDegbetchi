@@ -1,3 +1,5 @@
+[![FR](https://img.shields.io/badge/Langue-Français-blue?style=flat-square)](./README.md)
+[![EN](https://img.shields.io/badge/Language-English-lightgrey?style=flat-square)](./README.en.md)
 ## 👋 Salut, moi c’est **Thibaut DEGBETCHI**
 
 Développeur **Web (Laravel, Vue.js, Node.js, WordPress)** & **Mobile (Flutter)**, passionné par la création d’applications modernes, performantes et centrées sur l’expérience utilisateur.
